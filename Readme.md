@@ -64,7 +64,8 @@ O dashboard foi estruturado para responder as seguintes perguntas de negócio:
 
   ## Visualizacao do Dashboard
 
-![Dashboard Looker Studio](assets/looker.png)
+![Dashboard Looker Studio](Assets/looker.png)
+
 ---
 
 ## Funcionalidades do Dashboard
