@@ -32,7 +32,7 @@ df.to_csv('vendas_limpas.csv', index=False)
 
 ### 2. Análise Analítica (SQL)
 
-Consultas foram realizadas direto no python para validar métricas e preparar as tabelas que alimentariam o dashboard.
+Consultas foram realizadas direto no python, precisei criar um db e usar ele pra executar as queries com sqlite para validar métricas e preparar as tabelas que alimentariam o dashboard.
 
 ```
 SELECT 
@@ -45,7 +45,7 @@ ORDER BY total_faturamento DESC;
 
 ## 3. Visualização (Looker Studio)
 
-O dashboard foi estruturado para responder as seguintes perguntas de negócio:
+O dashboard foi estruturado a partir do output csv do python para responder as seguintes perguntas de negócio:
 
 - **Qual mês vende mais?**  
   *(Gráfico de linhas com comparação de período anterior)*
