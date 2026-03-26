@@ -2,8 +2,8 @@
 
 Este projeto consiste em um pipeline de dados completo, desde o processamento inicial de arquivos brutos até a criação de um dashboard executivo interativo. O objetivo foi transformar dados de vendas em insights sobre performance de vendedores, produtos e comportamento de clientes.
 
-## [Passo a passo no notebook](Exercícios_py.ipynb)
-## [Exercícios SQL](exercicios.sql)
+## [Python passo a passo no notebook](Exercícios_py.ipynb)
+## [Exercícios SQL](Exercícios.sql)
 ---
 
 ## Tecnologias Utilizadas
